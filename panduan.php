@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="user-scalable=no,widht=device-width"/>
+<link rel="stylesheet" href="css/themes/default/jquery.mobile-1.4.3.min.css">
+<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
+<script src="js/jquery-1.9.1.js"></script>
+<script src="js/jquery.mobile-1.4.3.min.js"></script>
+</head>
+
+<body>
+<div data-role="page" id="home">
+  <div data-role="header" align="center">
+ PANDUAN PENGGUNAAN
+    <br/>SISTEM PAKAR DIGNOSA PENYAKIT JANTUNG</h1>
+  </div>
+  
+    <div data-role="content" align="center">
+  
+ 
+   <img src="jquery.mobile/images/panduan.png" width="195" height="45"><br/> Pada tab ini, dijelaskan bagaimana penggunaan aplikasi ini 
+   </div>
+  
+  
+  
+    <a href="panduan1.php" data-role="button" data-icon="arrow-r" data-iconpos="right"> Next </a>
+    <a href="home.php" data-role="button" data-icon="arrow-l" data-iconpos="right"> Back </a>   
+    
+    <div data-role="footer">
+    <h4>@2014 Design by Yusvian</h4>
+  </div>
+</div>
+</body>
+</html>
